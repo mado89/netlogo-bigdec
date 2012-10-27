@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Extension-Name: bigdec
+Class-Manager: at.dobiasch.BigDec
+NetLogo-Extension-API-Version: 5.0
+
